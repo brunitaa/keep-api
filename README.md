@@ -94,13 +94,13 @@ The sessions table is structured with the following fields:
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/iamcarlosdaniel/keep-api-three-tier
+   git clone https://github.com/brunita/keep-api
    ```
 
 2. Navigate to the project directory:
 
    ```sh
-   cd keep-api-three-tier
+   cd keep-api
    ```
 
 3. Install the necessary dependencies:
